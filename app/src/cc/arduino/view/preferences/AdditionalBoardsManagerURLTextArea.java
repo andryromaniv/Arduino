@@ -69,7 +69,7 @@ public class AdditionalBoardsManagerURLTextArea extends javax.swing.JDialog {
     unofficialListURLLabel = new javax.swing.JLabel();
 
     setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
-    setTitle(tr("Additional Boards Manager URLs"));
+    setTitle(tr("Additional Boards Manager URLs HELLO WORLD"));
     setModal(true);
     setModalExclusionType(java.awt.Dialog.ModalExclusionType.APPLICATION_EXCLUDE);
 
